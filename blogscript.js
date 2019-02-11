@@ -1,5 +1,5 @@
 var url_popup = 'https://bit.ly/2THoHSz';
-var hinhquangcao='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg';
+var hinhanhquangcao='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg';
 var tukhoaseo='Dự án căn hộ';
 var lienhequangcao='Liên hệ 0911 585 119.';
 
